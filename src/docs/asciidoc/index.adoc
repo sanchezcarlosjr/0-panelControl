@@ -1,0 +1,29 @@
+= Panel de control
+Universo Santa Tecla <universoSantaTecla@gmail.com>
+:toc-title: Índice
+:toc: left
+
+:idprefix:
+:idseparator: -
+:imagesdir: images
+
+
+[cols=3,]
+|===
+
+a|
+link:file://./USantaTecla-1-fundamentos/0-itinerario/build/docs/asciidoc[USantaTecla-0-general]
+* 0-tareas
+* 1-presentacion
+* 4-plataforma
+* mpd
+* panelCotrol
+* x-biblioteca
+* x-respaldo
+* x-unidadPlantilla
+a|
+a|
+
+|===
+
+
