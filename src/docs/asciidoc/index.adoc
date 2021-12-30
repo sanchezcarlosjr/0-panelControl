@@ -8,21 +8,116 @@ Universo Santa Tecla <universoSantaTecla@gmail.com>
 :imagesdir: images
 
 
-[cols=3,]
+[cols="30,35,35"]
 |===
 
 a|
-link:file://./USantaTecla-1-fundamentos/0-itinerario/build/docs/asciidoc[USantaTecla-0-general]
-* 0-tareas
-* 1-presentacion
-* 4-plataforma
-* mpd
-* panelCotrol
-* x-biblioteca
-* x-respaldo
-* x-unidadPlantilla
+- link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos[USantaTecla-1-fundamentos]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/1-patrones/build/docs/asciidoc/index.html[1-patrones]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/2-conocimiento/build/docs/asciidoc/index.html[2-conocimiento]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/3-complejidad/build/docs/asciidoc/index.html[3-complejidad]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/4-software/build/docs/asciidoc/index.html[4-software]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/5-aplicacionesSoftware/build/docs/asciidoc/index.html[5-aplicacionesSoftware]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/6-disciplinasSoftware/build/docs/asciidoc/index.html[6-disciplinasSoftware]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/7-desarrolloSoftware/build/docs/asciidoc/index.html[7-desarrolloSoftware]
 a|
+- link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion[USantaTecla-2-programacion]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/1-introduccion/build/docs/asciidoc/index.html[1-introduccion]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/2-programacionEstructurada/build/docs/asciidoc/index.html[2-programacionEstructurada]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/3-programacionBasadaObjetos/build/docs/asciidoc/index.html[3-programacionBasadaObjetos]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/4-programacionOrientadaObjetos/build/docs/asciidoc/index.html[4-programacionOrientadaObjetos]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/5-programacionModular/build/docs/asciidoc/index.html[5-programacionModular]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/6-programacionExcepciones/build/docs/asciidoc/index.html[6-programacionExcepciones]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/7-programacionParametrizada/build/docs/asciidoc/index.html[7-programacionParametrizada]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/8-programacionEventos/build/docs/asciidoc/index.html[8-programacionEventos]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/9-programacionConcurrente/build/docs/asciidoc/index.html[9-programacionConcurrente]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/10-programacionRedes/build/docs/asciidoc/index.html[10-programacionRedes]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/11-programacionBasesDatos/build/docs/asciidoc/index.html[11-programacionBasesDatos]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/12-programacionWeb/build/docs/asciidoc/index.html[12-programacionWeb]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-2-programacion/13-programacionDistribuida/build/docs/asciidoc/index.html[13-programacionDistribuida]
+
 a|
+- link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo[USantaTecla-3-disenyo]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo/1-disenyo/build/docs/asciidoc/index.html[1-disenyo]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo/2-disenyoModular/build/docs/asciidoc/index.html[2-disenyoModular]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo/3-disenyoOrientadoObjetos/build/docs/asciidoc/index.html[3-disenyoOrientadoObjetos]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo/4-patronesDisenyo/build/docs/asciidoc/index.html[4-patronesDisenyo]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo/5-arquitecturaSoftware/build/docs/asciidoc/index.html[5-arquitecturaSoftware]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo/6-arquitecturaMVC/build/docs/asciidoc/index.html[6-arquitecturaMVC]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-3-disenyo/7-arquitecturasAgiles/build/docs/asciidoc/index.html[7-arquitecturasAgiles]
+
+a|
+- link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-4-pruebas[USantaTecla-4-pruebas]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-4-pruebas/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-4-pruebas/1-pruebasSoftware/build/docs/asciidoc/index.html[1-pruebasSoftware]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-4-pruebas/2-pruebasUnitarias/build/docs/asciidoc/index.html[2-pruebasUnitarias]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-4-pruebas/3-casosPruebasUnitarias/build/docs/asciidoc/index.html[3-casosPruebasUnitarias]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-4-pruebas/4-doblesPruebasUnitarias/build/docs/asciidoc/index.html[4-doblesPruebasUnitarias]
+
+a|
+- link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-5-rup[USantaTecla-5-rup]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-5-rup/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-5-rup/1-requisitos/build/docs/asciidoc/index.html[1-requisitos]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-5-rup/2-analisis/build/docs/asciidoc/index.html[2-analisis]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-5-rup/3-disenyo/build/docs/asciidoc/index.html[3-disenyo]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-5-rup/4-implementacion/build/docs/asciidoc/index.html[4-implementacion]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-5-rup/5-pruebas/build/docs/asciidoc/index.html[5-pruebas]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-5-rup/6-gestion/build/docs/asciidoc/index.html[6-gestion]
+
+a|
+- link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-6-agiles[USantaTecla-6-agiles]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-6-agiles/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-6-agiles/1-refactoring/build/docs/asciidoc/index.html[1-refactoring]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-6-agiles/2-eXtremeProgramming/build/docs/asciidoc/index.html[2-eXtremeProgramming]
+
+* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-6-agiles/3-scrum/build/docs/asciidoc/index.html[3-scrum]
+
 
 |===
 
