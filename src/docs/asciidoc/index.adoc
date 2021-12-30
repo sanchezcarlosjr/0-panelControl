@@ -12,9 +12,9 @@ Universo Santa Tecla <universoSantaTecla@gmail.com>
 |===
 
 a|
-- link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos[USantaTecla-1-fundamentos]
+- link:file:///../../../../../USantaTecla-1-fundamentos[USantaTecla-1-fundamentos]
 
-* link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
+* link:../../../../../USantaTecla-1-fundamentos/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
 
 * link:file:///C:/USantaTecla/x-uSantaTecla/USantaTecla-1-fundamentos/1-patrones/build/docs/asciidoc/index.html[1-patrones]
 
