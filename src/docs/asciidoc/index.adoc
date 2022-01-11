@@ -128,31 +128,40 @@ a|
 
 |===
 
-[cols="6", options="header"]
+[cols="5", options="header"]
 |===
 
-6+a|*[blue]#USantaTecla-tech#*
-
-a| link:../../../../../USantaTecla-tech-ajax/0-itinerario/build/docs/asciidoc/index.html[ajax]
-a| link:../../../../../USantaTecla-tech-css/0-itinerario/build/docs/asciidoc/index.html[css]
-a| link:../../../../../USantaTecla-tech-dhtml/0-itinerario/build/docs/asciidoc/index.html[dhtml]
-a| link:../../../../../USantaTecla-tech-dom/0-itinerario/build/docs/asciidoc/index.html[dom]
-a| link:../../../../../USantaTecla-tech-html/0-itinerario/build/docs/asciidoc/index.html[html]
-a| link:../../../../../USantaTecla-tech-javascript/0-itinerario/build/docs/asciidoc/index.html[javascript]
-
-a| link:../../../../../USantaTecla-tech-jquery/0-itinerario/build/docs/asciidoc/index.html[jquery]
-a| link:../../../../../USantaTecla-tech-json/0-itinerario/build/docs/asciidoc/index.html[json]
-a| link:../../../../../USantaTecla-tech-junit/0-itinerario/build/docs/asciidoc/index.html[junit]
-a| link:../../../../../USantaTecla-tech-mockito/0-itinerario/build/docs/asciidoc/index.html[mockito]
-a| link:../../../../../USantaTecla-tech-plantUml/0-itinerario/build/docs/asciidoc/index.html[plantUml]
-a| link:../../../../../USantaTecla-tech-react/0-itinerario/build/docs/asciidoc/index.html[react]
+5+a|*[blue]#USantaTecla-tech#*
 
 a| link:../../../../../USantaTecla-tech-uml/0-itinerario/build/docs/asciidoc/index.html[uml]
+a| link:../../../../../USantaTecla-tech-plantUml/0-itinerario/build/docs/asciidoc/index.html[plantUml]
 a| link:../../../../../USantaTecla-tech-xml/0-itinerario/build/docs/asciidoc/index.html[xml]
-a| link:[]
-a| link:[]
-a| link:[]
-a| link:[]
+a| link:../../../../../USantaTecla-tech-json/0-itinerario/build/docs/asciidoc/index.html[json]
+a| link:[yaml]
+
+a| link:../../../../../USantaTecla-tech-dom/0-itinerario/build/docs/asciidoc/index.html[dom]
+a| link:[xPath]
+a| link:[xmlSchema]
+a| link:[svg]
+a| link:../../../../../USantaTecla-tech-html/0-itinerario/build/docs/asciidoc/index.html[html]
+
+a| link:../../../../../USantaTecla-tech-css/0-itinerario/build/docs/asciidoc/index.html[css]
+a| link:../../../../../USantaTecla-tech-javascript/0-itinerario/build/docs/asciidoc/index.html[javascript]
+a| link:../../../../../USantaTecla-tech-dhtml/0-itinerario/build/docs/asciidoc/index.html[dhtml]
+a| link:../../../../../USantaTecla-tech-ajax/0-itinerario/build/docs/asciidoc/index.html[ajax]
+a| link:[storage]
+
+a| link:[java]
+a| link:[swing]
+a| link:[files]
+a| link:[sql]
+a| link:[tcp]
+
+a| link:[ip]
+a| link:../../../../../USantaTecla-tech-react/0-itinerario/build/docs/asciidoc/index.html[react]
+a| link:../../../../../USantaTecla-tech-jquery/0-itinerario/build/docs/asciidoc/index.html[jquery]
+a| link:../../../../../USantaTecla-tech-junit/0-itinerario/build/docs/asciidoc/index.html[junit]
+a| link:../../../../../USantaTecla-tech-mockito/0-itinerario/build/docs/asciidoc/index.html[mockito]
 
 |===
 
@@ -184,6 +193,8 @@ a|- *[blue]#Apps general#*
 
 a|- link:https://escuela.it/[*Escuela.it*]
 * link:https://escuela.it/master-desarrollo-software[Master]
+
+* link:https://escuela.it/examinador[Examenes]
 
 * link:https://escuela.it/informes[Informes]
 
