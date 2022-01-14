@@ -155,13 +155,14 @@ a| link:[java]
 a| link:[swing]
 a| link:[files]
 a| link:[sql]
-a| link:[tcp]
+a| link:[tcp/ip]
 
-a| link:[ip]
+ 
 a| link:../../../../../USantaTecla-tech-react/0-itinerario/build/docs/asciidoc/index.html[react]
 a| link:../../../../../USantaTecla-tech-jquery/0-itinerario/build/docs/asciidoc/index.html[jquery]
 a| link:../../../../../USantaTecla-tech-junit/0-itinerario/build/docs/asciidoc/index.html[junit]
 a| link:../../../../../USantaTecla-tech-mockito/0-itinerario/build/docs/asciidoc/index.html[mockito]
+a|
 
 |===
 
