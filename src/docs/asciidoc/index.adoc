@@ -77,7 +77,6 @@ a|
 
 * link:../../../../../USantaTecla-3-disenyo/6-arquitecturaMVC/build/docs/asciidoc/index.html[6-arquitecturaMVC]
 
-* link:../../../../../USantaTecla-3-disenyo/7-arquitecturasAgiles/build/docs/asciidoc/index.html[7-arquitecturasAgiles]
 
 |===
 
