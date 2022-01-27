@@ -189,9 +189,6 @@ a|- *[blue]#Apps general#*
 
 * link:https://www.primevideo.com/[Amazon Prive Video]
 
-* link:https://docs.google.com/spreadsheets/d/13e-RgAYQLLthE2kEndqBgFC-rB7DFsFV400LmVINvd8/edit#gid=0[Horas TLG]
-
-
 a|- link:https://escuela.it/[*Escuela.it*]
 * link:https://escuela.it/master-desarrollo-software[Master]
 
@@ -233,6 +230,9 @@ a|- link:https://www.codeurjc.es/mastercloudapps/[*MCA.URJC*]
 
 * link:https://docs.google.com/spreadsheets/d/1QLITfSk29m0CbkoUHRDxorM2rd891FH5TbUfkfBgwuQ/edit#gid=0[Corrección]
 
+- [blue]*TLG Commerce*
+
+* link:https://docs.google.com/spreadsheets/d/13e-RgAYQLLthE2kEndqBgFC-rB7DFsFV400LmVINvd8/edit#gid=0[Horas TLG]
 
 a|- *[blue]#Omatech#*
 
