@@ -134,9 +134,10 @@ a|
 
 a| link:../../../../../USantaTecla-tech-uml/0-itinerario/build/docs/asciidoc/index.html[uml]
 a| link:../../../../../USantaTecla-tech-plantUml/0-itinerario/build/docs/asciidoc/index.html[plantUml]
-a| link:../../../../../USantaTecla-tech-yaml/0-itinerario/build/docs/asciidoc/index.html[yaml]
-a| link:../../../../../USantaTecla-tech-json/0-itinerario/build/docs/asciidoc/index.html[json]
 a| link:../../../../../USantaTecla-tech-xml/0-itinerario/build/docs/asciidoc/index.html[xml]
+a| link:../../../../../USantaTecla-tech-json/0-itinerario/build/docs/asciidoc/index.html[json]
+a| link:../../../../../USantaTecla-tech-yaml/0-itinerario/build/docs/asciidoc/index.html[yaml]
+
 
 a| link:../../../../../USantaTecla-tech-dom/0-itinerario/build/docs/asciidoc/index.html[dom]
 a| link:../../../../../USantaTecla-tech-svg/0-itinerario/build/docs/asciidoc/index.html[svg]
