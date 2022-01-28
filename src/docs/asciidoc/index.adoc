@@ -140,9 +140,10 @@ a|
 
 a| link:../../../../../USantaTecla-tech-uml/0-itinerario/build/docs/asciidoc/index.html[uml]
 a| link:../../../../../USantaTecla-tech-plantUml/0-itinerario/build/docs/asciidoc/index.html[plantUml]
-a| link:../../../../../USantaTecla-tech-yaml/0-itinerario/build/docs/asciidoc/index.html[yaml]
-a| link:../../../../../USantaTecla-tech-json/0-itinerario/build/docs/asciidoc/index.html[json]
 a| link:../../../../../USantaTecla-tech-xml/0-itinerario/build/docs/asciidoc/index.html[xml]
+a| link:../../../../../USantaTecla-tech-json/0-itinerario/build/docs/asciidoc/index.html[json]
+a| link:../../../../../USantaTecla-tech-yaml/0-itinerario/build/docs/asciidoc/index.html[yaml]
+
 
 a| link:../../../../../USantaTecla-tech-dom/0-itinerario/build/docs/asciidoc/index.html[dom]
 a| link:../../../../../USantaTecla-tech-svg/0-itinerario/build/docs/asciidoc/index.html[svg]
@@ -195,7 +196,6 @@ a|- *[blue]#Apps general#*
 
 * link:https://www.primevideo.com/[Amazon Prive Video]
 
-
 a|- link:https://escuela.it/[*Escuela.it*]
 * link:https://escuela.it/master-desarrollo-software[Master]
 
@@ -237,6 +237,9 @@ a|- link:https://www.codeurjc.es/mastercloudapps/[*MCA.URJC*]
 
 * link:https://docs.google.com/spreadsheets/d/1QLITfSk29m0CbkoUHRDxorM2rd891FH5TbUfkfBgwuQ/edit#gid=0[Corrección]
 
+- [blue]*TLG Commerce*
+
+* link:https://docs.google.com/spreadsheets/d/13e-RgAYQLLthE2kEndqBgFC-rB7DFsFV400LmVINvd8/edit#gid=0[Horas TLG]
 
 a|- *[blue]#Omatech#*
 
