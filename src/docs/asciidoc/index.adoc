@@ -40,8 +40,6 @@ a|
 a|
 * link:../../../../../USantaTecla-2-programacion/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
 
-* link:../../../../../USantaTecla-2-programacion/x-introduccion/build/docs/asciidoc/index.html[x-introduccion]
-
 * link:../../../../../USantaTecla-2-programacion/1-programacionImperativa/build/docs/asciidoc/index.html[1-programacionImperativa]
 
 * link:../../../../../USantaTecla-2-programacion/2-programacionEstructurada/build/docs/asciidoc/index.html[2-programacionEstructurada]
