@@ -37,6 +37,8 @@ a|
 
 * link:../../../../../USantaTecla-1-fundamentos/8-aplicacionesWeb/build/docs/asciidoc/index.html[8-aplicacionesWeb]
 
+* link:../../../../../USantaTecla-1-fundamentos/9-aplicacionesWeb20/build/docs/asciidoc/index.html[9-aplicacionesWeb20]
+
 a|
 * link:../../../../../USantaTecla-2-programacion/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
 
@@ -54,17 +56,9 @@ a|
 
 * link:../../../../../USantaTecla-2-programacion/7-programacionParametrizada/build/docs/asciidoc/index.html[7-programacionParametrizada]
 
-* link:../../../../../USantaTecla-2-programacion/8-programacionEventos/build/docs/asciidoc/index.html[8-programacionEventos]
+* link:../../../../../USantaTecla-2-programacion/8-programacionConcurrente/build/docs/asciidoc/index.html[8-programacionConcurrente]
 
-* link:../../../../../USantaTecla-2-programacion/9-programacionConcurrente/build/docs/asciidoc/index.html[9-programacionConcurrente]
-
-* link:../../../../../USantaTecla-2-programacion/10-programacionRedes/build/docs/asciidoc/index.html[10-programacionRedes]
-
-* link:../../../../../USantaTecla-2-programacion/11-programacionBasesDatos/build/docs/asciidoc/index.html[11-programacionBasesDatos]
-
-* link:../../../../../USantaTecla-2-programacion/12-programacionWeb/build/docs/asciidoc/index.html[12-programacionWeb]
-
-* link:../../../../../USantaTecla-2-programacion/13-programacionDistribuida/build/docs/asciidoc/index.html[13-programacionDistribuida]
+* link:../../../../../USantaTecla-2-programacion/x-introduccion/build/docs/asciidoc/index.html[x-introduccion]
 
 a|
 * link:../../../../../USantaTecla-3-disenyo/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
@@ -81,6 +75,7 @@ a|
 
 * link:../../../../../USantaTecla-3-disenyo/6-arquitecturaMVC/build/docs/asciidoc/index.html[6-arquitecturaMVC]
 
+* link:../../../../../USantaTecla-3-disenyo/7-arquitecturasAgiles/build/docs/asciidoc/index.html[7-arquitecturasAgiles]
 
 |===
 
@@ -147,7 +142,7 @@ a| link:../../../../../USantaTecla-tech-dom/0-itinerario/build/docs/asciidoc/ind
 a| link:../../../../../USantaTecla-tech-svg/0-itinerario/build/docs/asciidoc/index.html[svg]
 a| link:../../../../../USantaTecla-tech-html/0-itinerario/build/docs/asciidoc/index.html[html]
 a| link:../../../../../USantaTecla-tech-css/0-itinerario/build/docs/asciidoc/index.html[css]
-a| link:../../../../../USantaTecla-tech-sql/0-itinerario/build/docs/asciidoc/index.html[sql]
+a| link:../../../../../USantaTecla-tech-jdbc/0-itinerario/build/docs/asciidoc/index.html[jdbc]
 
 a| link:../../../../../USantaTecla-tech-javascript/0-itinerario/build/docs/asciidoc/index.html[javascript]
 a| link:../../../../../USantaTecla-tech-dhtml/0-itinerario/build/docs/asciidoc/index.html[dhtml]
@@ -167,4 +162,21 @@ a| link:../../../../../USantaTecla-tech-mockito/0-itinerario/build/docs/asciidoc
 a| link:../../../../../USantaTecla-tech-jmeter/0-itinerario/build/docs/asciidoc/index.html[jmeter]
 a| link:../../../../../USantaTecla-tech-selenium/0-itinerario/build/docs/asciidoc/index.html[selenium]
 
+a| link:../../../../../USantaTecla-tech-xPath/0-itinerario/build/docs/asciidoc/index.html[xPath]
+a| link:../../../../../USantaTecla-tech-xmlSchema/0-itinerario/build/docs/asciidoc/index.html[xmlSchema]
+a| link:../../../../../USantaTecla-tech-storage/0-itinerario/build/docs/asciidoc/index.html[storage]
+a| link:../../../../../USantaTecla-tech-servlets/0-itinerario/build/docs/asciidoc/index.html[servlets]
+a| link:../../../../../USantaTecla-tech-rmi/0-itinerario/build/docs/asciidoc/index.html[rmi]
+a| link:../../../../../USantaTecla-tech-jquery/0-itinerario/build/docs/asciidoc/index.html[jquery]
+
+a| link:../../../../../USantaTecla-tech-bootstrap/0-itinerario/build/docs/asciidoc/index.html[bootstrap]
+a| link:../../../../../USantaTecla-tech-canvas/0-itinerario/build/docs/asciidoc/index.html[canvas]
+a|
+a|
+a|
+a|
+
 |===
+
+
+
