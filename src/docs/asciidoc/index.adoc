@@ -147,7 +147,7 @@ a| link:../../../../../USantaTecla-tech-dom/0-itinerario/build/docs/asciidoc/ind
 a| link:../../../../../USantaTecla-tech-svg/0-itinerario/build/docs/asciidoc/index.html[svg]
 a| link:../../../../../USantaTecla-tech-html/0-itinerario/build/docs/asciidoc/index.html[html]
 a| link:../../../../../USantaTecla-tech-css/0-itinerario/build/docs/asciidoc/index.html[css]
-a|
+a| link:../../../../../USantaTecla-tech-sql/0-itinerario/build/docs/asciidoc/index.html[sql]
 
 a| link:../../../../../USantaTecla-tech-javascript/0-itinerario/build/docs/asciidoc/index.html[javascript]
 a| link:../../../../../USantaTecla-tech-dhtml/0-itinerario/build/docs/asciidoc/index.html[dhtml]
@@ -159,106 +159,12 @@ a| link:../../../../../USantaTecla-tech-java/0-itinerario/build/docs/asciidoc/in
 a| link:../../../../../USantaTecla-tech-swing/0-itinerario/build/docs/asciidoc/index.html[swing]
 a| link:../../../../../USantaTecla-tech-tcp-ip/0-itinerario/build/docs/asciidoc/index.html[tcp/ip]
 a| link:../../../../../USantaTecla-tech-files/0-itinerario/build/docs/asciidoc/index.html[files]
-a| link:../../../../../USantaTecla-tech-sql/0-itinerario/build/docs/asciidoc/index.html[sql]
+a| link:../../../../../USantaTecla-tech-spring/0-itinerario/build/docs/asciidoc/index.html[spring]
 
+a| link:../../../../../USantaTecla-tech-jest/0-itinerario/build/docs/asciidoc/index.html[jest]
 a| link:../../../../../USantaTecla-tech-junit/0-itinerario/build/docs/asciidoc/index.html[junit]
 a| link:../../../../../USantaTecla-tech-mockito/0-itinerario/build/docs/asciidoc/index.html[mockito]
-a|
-a|
-a|
+a| link:../../../../../USantaTecla-tech-jmeter/0-itinerario/build/docs/asciidoc/index.html[jmeter]
+a| link:../../../../../USantaTecla-tech-selenium/0-itinerario/build/docs/asciidoc/index.html[selenium]
 
 |===
-
-[cols="25,25,25,25"]
-|===
-
-a|- *[blue]#Apps general#*
-
-* link:https://meet.jit.si/DespachoLuisFernandez[Jitsi Meet]
-
-* link:https://www.youtube.com/[Google Youtube]
-
-* link:https://translate.google.es/[Google Translater]
-
-* link:https://calendar.google.com/calendar/u/0/r[Google Calendar]
-
-* link:https://mail.google.com/mail/u/1/#inbox[Google Mail]
-
-* link:https://web.whatsapp.com/[Whatsapp]
-
-* link:https://drive.google.com/drive/u/1/my-drive[Google Driver]
-
-* link:https://www.netflix.com/browse[Netflix]
-
-* link:https://orangetv.orange.es/brw[Orange TV]
-
-* link:https://www.primevideo.com/[Amazon Prive Video]
-
-a|- link:https://escuela.it/[*Escuela.it*]
-* link:https://escuela.it/master-desarrollo-software[Master]
-
-* link:https://escuela.it/examinador[Examenes]
-
-* link:https://escuela.it/informes[Informes]
-
-* link:https://drive.google.com/drive/u/0/folders/1ISvtnJ0W3Q5CVpkPtznNKb_MBJbTXV0N[Carpeta drive]
-
-* link:https://app.slack.com/workspace-signin?redir=%2Fgantry%2Fauth%3Fapp%3Dclient%26lc%3D1641115873%26return_to%3D%252Fclient%252FT01C015S3B5%26teams%3D[Slack]
-
--  link:https://www.upm.es/[*UPM*]
-
-* link:https://www.upm.es/politecnica_virtual/login.upm?error=6[Apolo]
-
-* link:http://www.etsisi.upm.es/[ETSISI]
-
-* link:https://moodle.upm.es/titulaciones/oficiales/login/login.php[MIW.VGIW]
-
-* link:https://moodle.upm.es/titulaciones/oficiales/login/login.php[MIW.MDW]
-
-* link:https://moodle.upm.es/titulaciones/oficiales/login/login.php[GI*.TDW]
-
-
-
-a|- link:https://www.codeurjc.es/mastercloudapps/[*MCA.URJC*]
-
-* link:https://app.slack.com/workspace-signin?redir=%2Fgantry%2Fauth%3Fapp%3Dclient%26lc%3D1641115873%26return_to%3D%252Fclient%252FT02F5EM6MGS%252FC02F5ETLRNW%26teams%3D[Slack]
-
-* link:https://www.aulavirtual.urjc.es/moodle/login/index.php[Aula Virtual]
-
-* link:https://login.microsoftonline.com/5f84c4ea-370d-4b9e-830c-756f8bf1b51f/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=F852B15A41EB8F1D72CB8E8767A92D57144A3A2DA8E3BE81-9166DC13E42265996C410D7141EBE42500D62119D9D5A01E8A93B421C16E1DC2&redirect_uri=https%3A%2F%2Furjc-my.sharepoint.com%2F_forms%2Fdefault.aspx&state=OD0w&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=8bc512a0-3076-3000-91e7-ee3ad3a039fc[Drive URJC-saj29046sjgAS]
-
-* link:https://www.aulavirtual.urjc.es/moodle/pluginfile.php/9936017/mod_resource/content/0/Presentaci%C3%B3n%20del%20MasterCloudApps%202021-22.pdf[Presentación]
-
-* link:https://drive.google.com/drive/u/0/folders/1oXb3B-jNTK_ZqxTBbnrVL_Cd4iELlDcf[Drive]
-
-* link:https://docs.google.com/spreadsheets/d/1W_WIR7L_KG7iqwFuIcMYA_uZLDnD-3RjgzhyvxmPx0Y/edit#gid=0[Seguimiento]
-
-* link:https://docs.google.com/spreadsheets/d/1QLITfSk29m0CbkoUHRDxorM2rd891FH5TbUfkfBgwuQ/edit#gid=0[Corrección]
-
-- [blue]*TLG Commerce*
-
-* link:https://docs.google.com/spreadsheets/d/13e-RgAYQLLthE2kEndqBgFC-rB7DFsFV400LmVINvd8/edit#gid=0[Horas TLG]
-
-a|- *[blue]#Omatech#*
-
-* link:https://drive.google.com/drive/folders/1jygfoD1GXWkYeo4_D7CewyMU03Av2TmF[Documentación]
-
-* link:https://meet.jit.si/OmatechFormaci%C3%B3n[VideoConferencia]
-
-* link:https://docs.google.com/spreadsheets/d/1-RiwiO625REwcCKbqHm0t16ra94lmE_27ZLyNNDeqaU/edit#gid=0[Cronograma]
-
-* link:https://docs.google.com/spreadsheets/d/1gv4Kaw5YNoV2d-V_N6EutAm-2f87sIW8Slf9i56TYe4/edit#gid=0[Horas]
-
-* link:https://docs.google.com/spreadsheets/d/1rC53fVpS_bCmCYSvOkNkML9I66eJ_AsGVFPynKvf_Ds/edit#gid=286026959[Grupos]
-
-* link:https://docs.google.com/spreadsheets/d/1FbupHIi0WJX5aIoE4zqITAc9pBwgnFOcI0fTAgxO2lY/edit#gid=313249770&fvid=1034838971[Interno]
-
-* link:https://app.slack.com/workspace-signin?redir=%2Fgantry%2Fauth%3Fapp%3Dclient%26lc%3D1641115873%26return_to%3D%252Fclient%252FT04J1S9G1%252FC01FWGV4ZFS%26teams%3D[Slack]
-
-* link:https://docs.google.com/document/d/1IuoNZU57X_ehftsrceClGzLBDtPEQFY5nv_aZlTCclY/edit#heading=h.sxg2ohye4vka[Editora]
-
-
-
-|===
-
-
