@@ -26,8 +26,7 @@ a|
 * link:../../../../../USantaTecla-1-fundamentos/4-software/build/docs/asciidoc/index.html[4-software]
 * link:../../../../../USantaTecla-1-fundamentos/5-disciplinasSoftware/build/docs/asciidoc/index.html[5-disciplinasSoftware]
 * link:../../../../../USantaTecla-1-fundamentos/6-aplicacionesSoftware/build/docs/asciidoc/index.html[6-aplicacionesSoftware]
-* link:../../../../../USantaTecla-1-fundamentos/7-desarrolloSoftware/build/docs/asciidoc/index.html[7-desarrolloSoftware]
-* link:../../../../../USantaTecla-1-fundamentos/8-aplicacionesWeb/build/docs/asciidoc/index.html[8-aplicacionesWeb]
+* link:../../../../../USantaTecla-1-fundamentos/7-aplicacionesWeb/build/docs/asciidoc/index.html[7-aplicacionesWeb]
 
 a|
 * link:../../../../../USantaTecla-2-programacion/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
