@@ -88,12 +88,10 @@ a|
 
 a|
 * link:../../../../../USantaTecla-6-agiles/0-itinerario/build/docs/asciidoc/index.html[0-itinerario R]
-* link:../../../../../USantaTecla-6-agiles/1-agilismo/build/docs/asciidoc/index.html[1-agilismo R]
-* link:../../../../../USantaTecla-6-agiles/2-refactoring/build/docs/asciidoc/index.html[2-refactoring]
-* link:../../../../../USantaTecla-6-agiles/3-historiasUsuario/build/docs/asciidoc/index.html[3-historiasUsuario r]
-* link:../../../../../USantaTecla-6-agiles/4-testDrivenDevelopment/build/docs/asciidoc/index.html[4-testDrivenDevelopment V]
-* link:../../../../../USantaTecla-6-agiles/5-eXtremeProgramming/build/docs/asciidoc/index.html[5-eXtremeProgramming]
-* link:../../../../../USantaTecla-6-agiles/6-scrum/build/docs/asciidoc/index.html[6-scrum r] 
+* link:../../../../../USantaTecla-6-agiles/1-refactoring/build/docs/asciidoc/index.html[1-refactoring]
+* link:../../../../../USantaTecla-6-agiles/2-historiasUsuario/build/docs/asciidoc/index.html[2-historiasUsuario r]
+* link:../../../../../USantaTecla-6-agiles/3-eXtremeProgramming/build/docs/asciidoc/index.html[3-eXtremeProgramming]
+* link:../../../../../USantaTecla-6-agiles/4-scrum/build/docs/asciidoc/index.html[4-scrum r] 
 
 |===
 
