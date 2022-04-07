@@ -49,9 +49,7 @@ a|
 * link:../../../../../USantaTecla-3-disenyo/4-patronesDisenyo/build/docs/asciidoc/index.html[4-patronesDisenyo]
 * link:../../../../../USantaTecla-3-disenyo/5-arquitecturaSoftware/build/docs/asciidoc/index.html[5-arquitecturaSoftware]
 * link:../../../../../USantaTecla-3-disenyo/6-arquitecturaMVC/build/docs/asciidoc/index.html[6-arquitecturaMVC]
-* link:../../../../../USantaTecla-3-disenyo/7-arquitecturasAgiles/build/docs/asciidoc/index.html[7-arquitecturasAgiles]
-
-* 8-arquitecturaSistemas
+* 7-arquitecturaSistemas
 
 |===
 
