@@ -25,8 +25,9 @@ a|
 * link:../../../../../USantaTecla-1-fundamentos/3-complejidad/build/docs/asciidoc/index.html[3-complejidad]
 * link:../../../../../USantaTecla-1-fundamentos/4-software/build/docs/asciidoc/index.html[4-software]
 * link:../../../../../USantaTecla-1-fundamentos/5-disciplinasSoftware/build/docs/asciidoc/index.html[5-disciplinasSoftware]
-* link:../../../../../USantaTecla-1-fundamentos/6-aplicacionesSoftware/build/docs/asciidoc/index.html[6-aplicacionesSoftware]
+* link:../../../../../USantaTecla-1-fundamentos/6-procesoSoftware/build/docs/asciidoc/index.html[6-procesoSoftware]
 * link:../../../../../USantaTecla-1-fundamentos/7-aplicacionesWeb/build/docs/asciidoc/index.html[7-aplicacionesWeb]
+* link:../../../../../USantaTecla-1-fundamentos/8-aplicacionesSoftware/build/docs/asciidoc/index.html[8-aplicacionesSoftware]
 
 a|
 * link:../../../../../USantaTecla-2-programacion/0-itinerario/build/docs/asciidoc/index.html[0-itinerario]
